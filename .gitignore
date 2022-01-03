@@ -1,6 +1,12 @@
 .foam/templates/
 .vscode/
 vscode-markdown-preview-css/
+
 docs/random-thoughts/
 docs/mixing-drinks/past-notes/
 docs/CS-related/instance-related/
+
+docs/.obsidian
+docs/.stfolder
+docs/.stfolder.removed-20220104-024340
+docs/.stignore
