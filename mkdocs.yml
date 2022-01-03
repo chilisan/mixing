@@ -2,13 +2,25 @@
 # mkdocs-material: https://squidfunk.github.io/mkdocs-material/
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
-site_name: Foam-mkdocs-template
+site_name: suica's notes
 theme:
   name: material
-  #  favicon: attachment/portrait.png
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: cyan  
+      toggle:
+        icon: material/weather-sunny
+    - scheme: default
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+  favicon: vha_brandtini.png
+  logo: vha_brandtini.png
   language: zh # 中文，解决中文搜索问题
   features:
-    - navigation.expand 
+    # - navigation.expand 
     - tabs 
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
