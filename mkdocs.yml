@@ -20,7 +20,7 @@ theme:
   logo: vha_brandtini.png
   language: zh # 中文，解决中文搜索问题
   features:
-    # - navigation.expand 
+    - navigation.expand 
     - tabs 
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
