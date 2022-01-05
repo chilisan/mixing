@@ -1,2 +1,1 @@
 歡迎！
-本頁面由MKDocs製作，筆記整理中。目前仍在使用Obsidian整理筆記，正在嘗試用VScode的Foam插件替代Obsidian。
