@@ -16,8 +16,8 @@ theme:
       accent: yellow
       toggle:
         icon: material/weather-night
-  favicon: vha_brandtini.png
-  logo: vha_brandtini.png
+  favicon: vha_moonblast.png
+  logo: vha_moonblast.png
   language: zh # 中文，解决中文搜索问题
   features:
     - navigation.expand #自動展開
