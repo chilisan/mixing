@@ -7,13 +7,13 @@ theme:
   name: material
   palette:
     - scheme: slate
-      primary: deep purple
-      accent: cyan  
+      primary: cyan
+      accent: yellow  
       toggle:
         icon: material/weather-sunny
     - scheme: default
-      primary: deep purple
-      accent: cyan
+      primary: cyan
+      accent: yellow
       toggle:
         icon: material/weather-night
   favicon: vha_brandtini.png
