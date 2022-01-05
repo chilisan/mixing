@@ -69,3 +69,6 @@ plugins:
         - "*.gz"
       regex:
         - '.*\.(tmp|bin|tar)$'
+extra:
+  version:
+    provider: mike
