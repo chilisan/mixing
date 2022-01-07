@@ -40,7 +40,7 @@ PS. Zomie現在屬於當代經典了，像教父、教母這些反而被踢出�
 -   Between the Sheets
 -   Boulevardier 花花公子
 -   Brandy Crusta 
--   Casino
+-   [[Casino]]
 -   Clover Blub 三葉草俱樂部]
 -   Daiquiri 德貴麗類
 -   Dry Martini 乾馬丁尼
@@ -48,7 +48,7 @@ PS. Zomie現在屬於當代經典了，像教父、教母這些反而被踢出�
 -   Hanky Panky
 -   John Collins 約翰柯林斯
 -   Last Word 臨別一語
--   Manhattan 曼哈頓
+-   [[Manhattan|Manhattan 曼哈頓]]
 -   Martinez
 -   Mary Pickford
 -   Monkey Gland 猴腺
@@ -94,13 +94,13 @@ PS. Zomie現在屬於當代經典了，像教父、教母這些反而被踢出�
 -   Mojito 莫吉托
 -   Moscow Mule 莫斯科騾子
 -   Pina Colada 鳳梨可樂達
--   [[pisco-sour.md|Pisco Sour 皮斯科酸]]
+-   [[pisco-sour|Pisco Sour 皮斯科酸]]
 -   Sea Breeze 海風
 -   Sex on the Beach 性感海灘
--   Singapore Sling 新加坡司令
+-   [[Singapore-Sling|Singapore Sling 新加坡司令]]
 -   Tequila Sunrise 特基拉日出
 -   Vesper
--   Zombie
+-   [[Zombie|Zombie 殭屍]]
 
 ### New Era Drinks 新時代飲料
 >[New Era Drinks present the greatest number of new recipes, periodically revised and calibrated on the evolution of consumption, the fashions of the moment, marked by the sound of ice in the shakers of the greatest bartenders’ in the world](https://iba-world.com/category/iba-cocktails/new-era-drinks/)
@@ -110,7 +110,7 @@ PS. Zomie現在屬於當代經典了，像教父、教母這些反而被踢出�
 -   Bramble 荊棘
 -   Canchanchara
 -   Dark 'N' Stormy 月黑風高
--   Espresso Martini 咖啡馬天尼
+-   [[Espresso-Martini|Espresso Martini 濃縮咖啡馬天尼]]
 -   Fernandito
 -   French Martini
 -   Illegal

@@ -20,7 +20,7 @@ aliases: Zombie 殭屍
 - Glasses: [[tall tumbler glass]]
 - Main Recipe Source: [[IBA-Cocktail|IBA Cocktail]]
 
-![[IBA-CC-31-Zombie-scaled.jpg]]
+![[IBA21_Zombie.png]]
 
 ## Ingredients & Proportion
 - 45 ml Jamaican dark rum  

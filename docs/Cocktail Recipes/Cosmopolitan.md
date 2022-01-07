@@ -18,7 +18,7 @@ aliases: Cosmopolitan 大都會, Cosmopolitan 柯夢波丹
 - Glasses: [[Coupe glass]]
 - Main Recipe Source: [[IBA-Cocktail|IBA Cocktail]]
 
-- ![[IBA-CC-06-Cosmopolitan-scaled.jpg]]
+![[IBA21_Cosmopolitan.png]]
 
 ## Ingredients & Proportion
 - 40 ml Vodka Citron (Lemon Vodka - Absolut Citron)
