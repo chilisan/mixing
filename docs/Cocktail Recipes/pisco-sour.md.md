@@ -1,7 +1,7 @@
 ---
 title: Pisco Sour 皮斯科酸
 date: 2021-12-30
-status: post, done
+status: draft, done
 tags: 
 - 居家調酒雜記
 - CocktailRecipe
@@ -19,7 +19,7 @@ aliases: Pisco Sour 皮斯科酸
 - Glasses: [[goblet glass]]
 - Recipe Source: [[IBA-Cocktail|IBA Cocktail]]
 
-![Pisco Sour](https://iba-world.com/wp-content/uploads/2021/02/IBA-CC-25-Pisco-Sour-scaled.jpg)
+![[IBA-CC-25-Pisco-Sour.jpg]]
 
 ## Ingredients & Proportion
 - 60 ml Pisco  

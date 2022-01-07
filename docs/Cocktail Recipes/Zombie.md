@@ -1,7 +1,7 @@
 ---
 title: Zombie 殭屍
 date: 2022-01-06
-status: post, not-started
+status: draft, not-started
 tags: 
 - 居家調酒雜記
 - CocktailRecipe
@@ -19,6 +19,8 @@ aliases: Zombie 殭屍
 - Method: [[Blend?]]
 - Glasses: [[tall tumbler glass]]
 - Main Recipe Source: [[IBA-Cocktail|IBA Cocktail]]
+
+![[IBA-CC-31-Zombie-scaled.jpg]]
 
 ## Ingredients & Proportion
 - 45 ml Jamaican dark rum  
@@ -81,7 +83,7 @@ aliases: Zombie 殭屍
 做法： 
 - 將紅糖以檸檬汁溶解，接著將雪克杯裝入碎冰至半滿，然後加入所有材料並且搖和至均勻。完成後倒入高杯子中，再取一小株薄荷葉作為裝飾。
 
-![](Ted-Haigh-Zombie-Recipe.webp)
+![[Ted-Haigh-Zombie-Recipe.png]]
 
 這兩個版本酒譜都有一個很重要的共同點，那就是都指定[[151-proof#151品牌|151濃度-檸檬哈特-德馬拉拉朗姆酒]]。
 
