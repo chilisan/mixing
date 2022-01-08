@@ -8,7 +8,6 @@ tags:
 - 朗姆酒
 - 海軍度數
 - 151
-source: https://mp.weixin.qq.com/s/z7RTnAdX_brL3WIacCwVBQ
 aliases: 151 濃度朗姆酒
 ---
 # 151 濃度朗姆酒
@@ -19,3 +18,6 @@ aliases: 151 濃度朗姆酒
 
 ## 151品牌
 大家最熟悉的151就是百家得的了，但除了蝙蝠牌之外，其实很多朗姆酒品牌都有出这样高浓度的酒款，像是柠檬哈特的151就是当中翘楚。其饱满润口的feel喝起来一点也不像是75.5%的高浓度，口味略甜带有丰富的黑糖、太妃糖、巧克力以及温润的辛香料风味。
+
+source:
+[行尸走肉——僵尸 (Zombie) - 晚安鲁道夫](https://mp.weixin.qq.com/s/z7RTnAdX_brL3WIacCwVBQ)

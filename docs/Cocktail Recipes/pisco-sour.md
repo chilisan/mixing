@@ -6,7 +6,6 @@ tags:
 - 居家調酒雜記
 - CocktailRecipe
 - IBA
-source: https://iba-world.com/pisco-sour/
 aliases: Pisco Sour 皮斯科酸
 ---
 # Pisco Sour 皮斯科酸
@@ -32,7 +31,7 @@ aliases: Pisco Sour 皮斯科酸
 
 ## How to make
 - Add all ingredients into a shaker with ice.  
-Shake and strain into a chilled goblet glass.
+- Shake and strain into a chilled goblet glass.
 
 ## Notes
 - （傻乎乎不知道自己買的不是皮斯科酒而是調配好的皮斯科利口酒的我）

@@ -6,7 +6,6 @@ tags:
 - IBA
 - cocktail
 - 經典調酒
-source: https://iba-world.com/
 aliases: IBA Cocktail, 國際調酒師協會官方雞尾酒列表
 ---
 # 國際調酒師協會官方雞尾酒列表
@@ -131,3 +130,7 @@ PS. Zomie現在屬於當代經典了，像教父、教母這些反而被踢出�
 -   (**New!**) Trinidad Sour
 -   VE.N.TO
 -   Yellow Bird
+
+## References
+1. [International Bartenders Association - IBA](https://iba-world.com/)
+2. [國際調酒師協會官方雞尾酒列表 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E5%9B%BD%E9%99%85%E8%B0%83%E9%85%92%E5%B8%88%E5%8D%8F%E4%BC%9A%E5%AE%98%E6%96%B9%E9%B8%A1%E5%B0%BE%E9%85%92%E5%88%97%E8%A1%A8)

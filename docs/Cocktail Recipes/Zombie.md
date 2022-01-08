@@ -7,7 +7,7 @@ tags:
 - CocktailRecipe
 - Tiki
 - 高度數雞尾酒
-source: https://mp.weixin.qq.com/s/z7RTnAdX_brL3WIacCwVBQ
+- IBA
 aliases: Zombie 殭屍
 ---
 # Zombie 殭屍

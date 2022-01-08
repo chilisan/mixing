@@ -1,30 +1,43 @@
 ---
-title: Amareto Sour Improved
-date: 
-status: draft/post, done/not-started
+title: Amaretto Sour Improved
+date:  2021-11-10
+status: draft, done
 tags: 
 - 居家調酒雜記
-- CocktailRecipe
-source: 
-aliases: 
+- CocktailRecipe 
+aliases: Amaretto Sour Improved
 ---
-# TITLE
+# Amaretto Sour, Improved
 
 ## Metadata
 - ~~IBA Cocktail~~
 - Type: [[Sour]]
 - Main Spirit: [[Whiskey]]
 - Method: [[Shake]]
-- Glasses: [[Rock Glass]]
+- Glasses: [[rocks glass]]
 - Main Recipe Source: [[Difford's Guide]]
 
 ## Ingredients & Proportion
+- 45 ml 	Disaronno amaretto
+- 30 ml 	Bourbon whiskey
+- 22.5 ml 	Lemon juice (freshly squeezed)
+- 5 ml 	Demerara / dark Muscovado / brown sugar
+- 15 ml 	Pasteurised egg white
 
 ## Garnish
+- Lemon zest twist (discarded) 
+- Luxardo Maraschino cherries
 
 ## How to make
+- SHAKE all ingredients with ice and strain back into shaker. 
+- DRY SHAKE (without ice) and pour into ice-filled glass.
 
 ## Notes
 - 起初看到加45ml的Disaronno還擔心味道會不會很怪，之前專門為「教父」買了這個杏仁酒，都不敢多加……結果做成sour類酒意外的酸甜平衡~
+- 我最初做這款酒是在Mixel上找的酒譜，酒譜顯示來源爲Difford's Guide，配方與我現在整理時實際去網站找來的略有出入，具體如下：
+
+![[Amaretto-Sour-Mixel.png]]
 
 ## References
+1. [Amaretto Sour (by Jeffrey Morgenthaler) Cocktail Recipe](https://www.diffordsguide.com/cocktails/recipe/3263/amaretto-sour-by-jeffrey-morgenthaler)
+2. [20 best Amaretto cocktails](https://www.diffordsguide.com/encyclopedia/1228/cocktails/20-best-amaretto-cocktails)
