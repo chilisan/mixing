@@ -2,7 +2,7 @@
 title: Cosmopolitan 柯夢波丹
 date: 2021-11-08
 status: post, done
-tags: 
+tags:
 - 居家調酒雜記
 - CocktailRecipe
 - IBA
@@ -33,13 +33,13 @@ aliases: Cosmopolitan 大都會, Cosmopolitan 柯夢波丹
 - Add all ingredients into a cocktail shaker filled with ice. Shake well and strain into a large cocktail glass.
 
 ## Notes
-- 前不久B站亂逛看到有調酒up主提示大都會（cosmopolitan）的IBA指定配方需要的伏特加是檸檬伏特加，想到之前兩次製作的不理想可能就是基酒用的不對導致的。
+- 前不久 B 站亂逛看到有調酒 up 主提示大都會（cosmopolitan）的 IBA 指定配方需要的伏特加是檸檬伏特加，想到之前兩次製作的不理想可能就是基酒用的不對導致的。
 
 - ![[absolut-original-vodka-citron.jpg]]
 
 - 雖然這酒好買，但買來除了做大都會，好像也沒什麼其他用處（我不怎麼純飲，最好買到的絕對伏特加我不太喜歡），買一大瓶佔地方，家裡的櫃子已經被擺得滿滿噹噹了。幸運的是今天逛超市恰巧發現了絕對伏特加檸檬味的小瓶（50ml）有賣。
 
 ## References
-1. [Cosmopolitan - iba-world.com](https://iba-world.com/cosmopolitan/)
-2. [Difford's Guide - Cosmopolitan Cocktail](https://www.diffordsguide.com/encyclopedia/462/cocktails/cosmopolitan-cocktail)
-3. [如何做一杯好喝的大都会cosmopolitan](https://www.bilibili.com/video/BV1o44y1q7Zm?from=search&seid=804117361128592095&spm_id_from=333.337.0.0)
+1.  [Cosmopolitan - iba-world.com](https://iba-world.com/cosmopolitan/)
+2.  [Difford's Guide - Cosmopolitan Cocktail](https://www.diffordsguide.com/encyclopedia/462/cocktails/cosmopolitan-cocktail)
+3.  [如何做一杯好喝的大都会 cosmopolitan](https://www.bilibili.com/video/BV1o44y1q7Zm?from=search&seid=804117361128592095&spm_id_from=333.337.0.0)

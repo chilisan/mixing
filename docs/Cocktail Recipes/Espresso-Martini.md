@@ -2,7 +2,7 @@
 title: Espresso-Martini 濃縮咖啡馬天尼
 date: 2021-11-14
 status: draft, done
-tags: 
+tags:
 - 居家調酒雜記
 - CocktailRecipe
 - IBA
@@ -21,9 +21,9 @@ aliases: Espresso Martini 濃縮咖啡馬天尼
 ![[IBA21_Espresso_Martini.png]]
 
 ## Ingredients & Proportion
-- 50 ml Vodka  
-- 30 ml Kahlúa  
-- 10 ml Sugar Syrup  
+- 50 ml Vodka
+- 30 ml Kahlúa
+- 10 ml Sugar Syrup
 - 1 strong Espresso
 
 ## Garnish
@@ -34,8 +34,8 @@ aliases: Espresso Martini 濃縮咖啡馬天尼
 - strain into chilled cocktail glass
 
 ## Notes
-- Martini Espresso和Black Russian做法差不多味道也差不多，但多了一份濃縮後感覺比後者更好入口 ，上面像濃縮咖啡一樣有一層綿密的泡沫。我沒有甘露咖啡酒（這種咖啡利口酒很好買到），用的是之前買的其他的咖啡酒。
+- Martini Espresso 和 Black Russian 做法差不多味道也差不多，但多了一份濃縮後感覺比後者更好入口 ，上面像濃縮咖啡一樣有一層綿密的泡沫。我沒有甘露咖啡酒（這種咖啡利口酒很好買到），用的是之前買的其他的咖啡酒。
 - 根據不同咖啡酒的選擇，單糖漿要調整用量，不然太甜了。
 
 ## References
-1. [Espresso Martini - iba-world.com](https://iba-world.com/espresso-martini/)
+1.  [Espresso Martini - iba-world.com](https://iba-world.com/espresso-martini/)
