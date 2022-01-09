@@ -1,13 +1,15 @@
 ---
 title: Tiki 酒
-date: 2022-01-07
+date: 2022-01-07T00:00:00.000Z
 status: draft
 tags:
-- Tiki
-- cocktail
-- 調酒
+  - Tiki
+  - cocktail
+  - 調酒
 aliases: Tiki 酒
+date updated: 2022-01-09 17:58
 ---
+
 # Tiki 酒
 
 什么叫做蒂奇岛风格？
@@ -19,4 +21,4 @@ aliases: Tiki 酒
 「[[Zombie|僵尸]]」可以说是被誉为蒂奇岛风格(Tiki's Style)的梦幻与传奇一杯。
 
 source:
- [行尸走肉——僵尸 (Zombie) - 晚安鲁道夫](https://mp.weixin.qq.com/s/z7RTnAdX_brL3WIacCwVBQ)
+[行尸走肉——僵尸 (Zombie) - 晚安鲁道夫](https://mp.weixin.qq.com/s/z7RTnAdX_brL3WIacCwVBQ)

@@ -1,18 +1,21 @@
 ---
 title: Zombie 殭屍
-date: 2022-01-06
+date: 2022-01-06T00:00:00.000Z
 status: draft, not-started
 tags:
-- 居家調酒雜記
-- CocktailRecipe
-- Tiki
-- 高度數雞尾酒
-- IBA
+  - 居家調酒雜記
+  - CocktailRecipe
+  - Tiki
+  - 高度數雞尾酒
+  - IBA
 aliases: Zombie 殭屍
+date updated: 2022-01-09 17:58
 ---
+
 # Zombie 殭屍
 
 ## Metadata
+
 - IBA Cocktail: [[IBA-Cocktail#New Era Drinks 新時代飲料|New Era Drinks]]
 - Type: [[Tiki]]
 - Main Spirit: [[Rum]]
@@ -23,32 +26,47 @@ aliases: Zombie 殭屍
 ![[IBA21_Zombie.png]]
 
 ## Ingredients & Proportion
+
 - 45 ml Jamaican dark rum
+
 - 45 ml Gold Puerto Rican rum
+
 - 30 ml Demerara Rum*
+
 - 20 ml Fresh lime juice
+
 - 15 ml Falernum
+
 - 15 ml Donn’s Mix*
+
 - 1 tsp Grenadine syrup
+
 - 1 dash Angostura bitters
+
 - 6 drops Pernod*
 
 - *Donn’s Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup
 
 ## Garnish
+
 - mint leaves
 
 ## How to make
+
 - Add all ingredients into an electric blender with 170 grams of cracked ice. With pulse bottom blend for a few seconds. Serve in a tall tumbler glass.
 
 ## Notes
-- >*德莫拉拉(Demerara)指的是一種粗顆粒的紅(黑)糖，因它的產地所得名，簡單說就是尚未精緻化的糖，風味如其顏色般較為深邃，而以此製成的朗姆酒便帶有其豐富的特色，用溫感與調性來形容，德馬拉拉朗姆酒有點像你冬裡的暖被，一般朗姆酒則是你夏日的涼蓆。
+
+- > *德莫拉拉(Demerara)指的是一種粗顆粒的紅(黑)糖，因它的產地所得名，簡單說就是尚未精緻化的糖，風味如其顏色般較為深邃，而以此製成的朗姆酒便帶有其豐富的特色，用溫感與調性來形容，德馬拉拉朗姆酒有點像你冬裡的暖被，一般朗姆酒則是你夏日的涼蓆。
 
 - *Demerara Rum 即  151-proof Lemon Hart Demerara rum（ 151 濃度-檸檬哈特-德馬拉拉朗姆酒）。
+
 - *Pernod 保樂茴香酒
+
 - [[how-to-make-zombie-cocktail|Zombie 调制心得]]
 
 ### Zombie 的 「原始酒譜」
+
 巨浪老唐是最知名的創作者，最初出現的約莫在 1934 年。傳說，這杯酒的誕生，是在 1934 年的某個早晨，老唐為了要幫一位解宿醉的客人而創作了這一杯酒。並對客人說：壞的調酒師讓你上茅房，好的調酒師讓你上天堂！
 
 “If you can't get to paradise, I'll bring it to you.(原句)”。
@@ -64,12 +82,14 @@ aliases: Zombie 殭屍
 一個個前仆後繼，但是卻一個個都失敗，他們所調製出來的，不是喝起來像藥水就是辛辣難以入口，或許是實在看不下去了，老唐本人親自出來闢謠，「我是在 1934 年創作這杯酒的，其他人說得和我不同都是山寨的！」並且讓這杯酒重出江湖。
 
 ### 兩個版本的 Zombie 「原始酒譜」
+
 至今流傳下來大家比較認同的「"殭屍"原始酒譜」有兩個版本。
 
 一派是當代蒂奇大師——畢區龐貝瑞(Beachbum Berry)所信奉的酒譜（即上面的 IBA 酒譜），有沒有蒂奇風格取名字都要跟海灘有關係的八卦？
 另外一派則是人稱雞尾酒博士的泰德黑格(Ted Haigh)的版本。
 
 配方：
+
 - 30 ml 鮮榨青檸汁
 - 30 ml 鮮榨檸檬汁
 - 30 ml 糖份無調整的鳳梨汁
@@ -81,6 +101,7 @@ aliases: Zombie 殭屍
 - 1dash 安格仕苦精
 
 做法：
+
 - 將紅糖以檸檬汁溶解，接著將雪克杯裝入碎冰至半滿，然後加入所有材料並且搖和至均勻。完成後倒入高杯子中，再取一小株薄荷葉作為裝飾。
 
 ![[Ted-Haigh-Zombie-Recipe.png]]
@@ -88,5 +109,6 @@ aliases: Zombie 殭屍
 這兩個版本酒譜都有一個很重要的共同點，那就是都指定[[151-proof#151 品牌|151 濃度-檸檬哈特-德馬拉拉朗姆酒]]。
 
 ## References
-1.  [Zombie - iba-world.com](https://iba-world.com/zombie/)
-2.  [行尸走肉——僵尸 (Zombie) - 晚安鲁道夫](https://mp.weixin.qq.com/s/z7RTnAdX_brL3WIacCwVBQ)
+
+1. [Zombie - iba-world.com](https://iba-world.com/zombie/)
+2. [行尸走肉——僵尸 (Zombie) - 晚安鲁道夫](https://mp.weixin.qq.com/s/z7RTnAdX_brL3WIacCwVBQ)

@@ -1,20 +1,25 @@
 ---
 title: 國際調酒師協會官方雞尾酒列表
-date: 2022-01-06
+date: 2022-01-06T00:00:00.000Z
 status: draft
 tags:
-- IBA
-- cocktail
-- 經典調酒
+  - IBA
+  - cocktail
+  - 經典調酒
 aliases: IBA Cocktail, 國際調酒師協會官方雞尾酒列表
+date updated: 2022-01-09 17:58
 ---
+
 # 國際調酒師協會官方雞尾酒列表
+
 ## 什麼是「IBA 官方調酒」？
+
 > **國際調酒師協會官方雞尾酒**是[國際調酒師協會](https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%9A%9B%E8%AA%BF%E9%85%92%E5%B8%AB%E5%8D%94%E6%9C%83 "國際調酒師協會")（縮寫為IBA）為了舉辦世界雞尾酒大賽（縮寫為WCC）而精選出來的適合調酒師參賽的[雞尾酒](https://zh.wikipedia.org/wiki/%E9%B8%A1%E5%B0%BE%E9%85%92 "雞尾酒")品種。
 
- [國際調酒師協會官方雞尾酒列表](https://zh.wikipedia.org/zh-tw/%E5%9B%BD%E9%99%85%E8%B0%83%E9%85%92%E5%B8%88%E5%8D%8F%E4%BC%9A%E5%AE%98%E6%96%B9%E9%B8%A1%E5%B0%BE%E9%85%92%E5%88%97%E8%A1%A8)
+[國際調酒師協會官方雞尾酒列表](https://zh.wikipedia.org/zh-tw/%E5%9B%BD%E9%99%85%E8%B0%83%E9%85%92%E5%B8%88%E5%8D%8F%E4%BC%9A%E5%AE%98%E6%96%B9%E9%B8%A1%E5%B0%BE%E9%85%92%E5%88%97%E8%A1%A8)
 
 ## 「Classic 經典調酒」就是「IBA 官方調酒」嗎？
+
 > 也有一些大家耳熟能詳的調酒並未被 IBA 收錄，像是 Gimlet、Zombie、Salty Dog…等等，但這些調酒師都會做的酒當然也屬於經典調酒的範疇囉。
 
 [[調酒知識] 什麼是「Signature 特調」？什麼是「Classic 經典調酒」？ | 一飲樂酒誌](https://www.1shot.tw/20111/%E8%AA%BF%E9%85%92%E7%9F%A5%E8%AD%98-%E4%BB%80%E9%BA%BC%E6%98%AF%E3%80%8Csignature-%E7%89%B9%E8%AA%BF%E3%80%8D%EF%BC%9F%E4%BB%80%E9%BA%BC%E6%98%AF%E3%80%8Cclassic-%E7%B6%93%E5%85%B8%E8%AA%BF)
@@ -28,6 +33,7 @@ PS. Zomie 現在屬於當代經典了，像教父、教母這些反而被踢出�
 [國際調酒師協會](https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%9A%9B%E8%AA%BF%E9%85%92%E5%B8%AB%E5%8D%94%E6%9C%83 "國際調酒師協會")官方雞尾酒分為三類:
 
 ### The Unforgettables 難忘
+
 > [Under the voice of The Unforgettables all those unforgettable classic recipes that represent the Bible of the origins of mixed drinks with a consolidated worldwide distribution.](https://iba-world.com/category/iba-cocktails/the-unforgettables/)
 
 - Alexander 亞歷山大類
@@ -65,6 +71,7 @@ PS. Zomie 現在屬於當代經典了，像教父、教母這些反而被踢出�
 - White Lady
 
 ### Contemporary Classics 當代經典
+
 > [The Contemporary Classics some of which, completely forgotten, have been replaced by those that remain popular all over the world as a symbol of class and prestige drinking.](https://iba-world.com/category/iba-cocktails/contemporary-classics/)
 
 - Bellini
@@ -100,6 +107,7 @@ PS. Zomie 現在屬於當代經典了，像教父、教母這些反而被踢出�
 - [[Zombie|Zombie 殭屍]]
 
 ### New Era Drinks 新時代飲料
+
 > [New Era Drinks present the greatest number of new recipes, periodically revised and calibrated on the evolution of consumption, the fashions of the moment, marked by the sound of ice in the shakers of the greatest bartenders’ in the world](https://iba-world.com/category/iba-cocktails/new-era-drinks/)
 
 - Barracuda
@@ -130,5 +138,6 @@ PS. Zomie 現在屬於當代經典了，像教父、教母這些反而被踢出�
 - Yellow Bird
 
 ## References
-1.  [International Bartenders Association - IBA](https://iba-world.com/)
-2.  [國際調酒師協會官方雞尾酒列表 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E5%9B%BD%E9%99%85%E8%B0%83%E9%85%92%E5%B8%88%E5%8D%8F%E4%BC%9A%E5%AE%98%E6%96%B9%E9%B8%A1%E5%B0%BE%E9%85%92%E5%88%97%E8%A1%A8)
+
+1. [International Bartenders Association - IBA](https://iba-world.com/)
+2. [國際調酒師協會官方雞尾酒列表 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E5%9B%BD%E9%99%85%E8%B0%83%E9%85%92%E5%B8%88%E5%8D%8F%E4%BC%9A%E5%AE%98%E6%96%B9%E9%B8%A1%E5%B0%BE%E9%85%92%E5%88%97%E8%A1%A8)
