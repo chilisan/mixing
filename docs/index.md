@@ -1,6 +1,6 @@
 ---
 title: 鸡尾酒配方
-date: 2021-08-21T00:00:00.000Z
+date: 2021-08-21
 status: post
 tags:
   - 调酒

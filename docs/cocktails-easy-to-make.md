@@ -1,6 +1,6 @@
 ---
 title: 家庭超简易调酒
-date: 2021-08-05_Thu
+date: 2021-08-05
 status: draft
 tags:
   - 调酒

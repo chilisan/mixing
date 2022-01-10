@@ -1,6 +1,6 @@
 ---
 title: Zombie 殭屍
-date: 2022-01-06T00:00:00.000Z
+date: 2022-01-06
 status: draft, not-started
 tags:
   - 居家調酒雜記

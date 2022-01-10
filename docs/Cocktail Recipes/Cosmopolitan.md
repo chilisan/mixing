@@ -1,6 +1,6 @@
 ---
 title: Cosmopolitan 柯夢波丹
-date: 2021-11-08T00:00:00.000Z
+date: 2021-11-08
 status: post, done
 tags:
   - 居家調酒雜記

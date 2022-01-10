@@ -1,6 +1,6 @@
 ---
 title: Singapore Sling 新加坡司令
-date: 2021-11-10T00:00:00.000Z
+date: 2021-11-10
 status: draft, done
 tags:
   - 居家調酒雜記

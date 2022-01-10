@@ -1,6 +1,6 @@
 ---
 title: Collins 柯林斯
-date: 2022-01-07T00:00:00.000Z
+date: 2022-01-07
 status: draft
 tags:
   - Collins

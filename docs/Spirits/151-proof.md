@@ -1,6 +1,6 @@
 ---
 title: 151 濃度朗姆酒
-date: 2022-01-07T00:00:00.000Z
+date: 2022-01-07
 status: draft
 tags:
   - 朗姆

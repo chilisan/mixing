@@ -1,6 +1,6 @@
 ---
 title: Fizz 菲茲
-date: 2022-01-08T00:00:00.000Z
+date: 2022-01-08
 status: draft
 tags:
   - Fizz

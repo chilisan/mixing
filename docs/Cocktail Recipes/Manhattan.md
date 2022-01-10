@@ -1,6 +1,6 @@
 ---
 title: Manhattan 曼哈頓
-date: 2021-11-14T00:00:00.000Z
+date: 2021-11-14
 status: draft, done
 tags:
   - 居家調酒雜記

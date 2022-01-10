@@ -1,6 +1,6 @@
 ---
 title: Pisco Sour 皮斯科酸
-date: 2021-12-30T00:00:00.000Z
+date: 2021-12-30
 status: draft, done
 tags:
   - 居家調酒雜記

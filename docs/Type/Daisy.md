@@ -1,6 +1,6 @@
 ---
 title: Daisy 黛西
-date: 2021-12-17T00:00:00.000Z
+date: 2021-12-17
 tags:
   - 居家調酒雜記
   - CocktailType
