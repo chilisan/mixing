@@ -1,6 +1,6 @@
 ---
 title: Angostura Bitters
-date: 2022-01-08
+date created: 2022-01-08
 status: draft
 tags:
   - bitters

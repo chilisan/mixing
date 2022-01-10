@@ -1,6 +1,6 @@
 ---
 title: Punch 賓治
-date: 2022-01-06
+date created: 2022-01-06
 status: draft
 tags:
   - Punch
