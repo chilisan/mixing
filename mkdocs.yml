@@ -20,7 +20,7 @@ theme:
   logo: vha_moonblast.png
   language: zh # 中文，解决中文搜索问题
   features:
-    - navigation.expand #自動展開
+    # - navigation.expand #自動展開
     - tabs 
     - navigation.tracking #自動更新URL?
     - navigation.top #回到最上
