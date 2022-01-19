@@ -27,7 +27,7 @@ theme:
     - navigation.indexes #section page
     # - navigation.tabs #將頂級目錄放到頂欄
     # - navigation.tabs.sticky #下滑頁面時頂欄固定不隱藏
-    - navigation.sections
+    # - navigation.sections
     
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
