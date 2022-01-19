@@ -5,7 +5,7 @@
 [[IBA-Cocktail]]
 [[pre-index]]
 
-## [[docs/Cocktail-Recipes/index]]
+## [[Cocktail-Recipes/index]]
 
 [[Amarero-Sour-improved]]
 [[Apple-Hot-Toddy]]
@@ -17,20 +17,20 @@
 [[Singapore-Sling]]
 [[Zombie]]
 
-## [[docs/Cocktail-Reading/index]]
+## [[Cocktail-Reading/index]]
 
 [[les-cocktails-c'est-pas-sorcier]]
 
-## [[docs/Glasses/index]]
+## [[Glasses/index]]
 
-## [[docs/Methods/index]]
+## [[Methods/index]]
 
-## [[docs/Spirits/index]]
+## [[Spirits/index]]
 
 [[151-proof]]
 [[Angostura Bitters]]
 
-## [[docs/Types/index]]
+## [[Types/index]]
 
 [[Collins]]
 [[Daisy]]
