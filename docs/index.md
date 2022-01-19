@@ -12,7 +12,7 @@ nav:
     - docs/index.md
     - Cocktail Recipes: docs/Cocktail-Recipes.md
     - Types: docs/Types.md
-    - Methods docs/Methods.md
+    - Methods: docs/Methods.md
     - Spirits: docs/Spirits.md
     - Glasses: docs/Glasses.md
     - Cocktail Reading: docs/Cocktail-Reading.md
