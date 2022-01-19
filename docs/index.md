@@ -7,21 +7,18 @@ tags:
   - 饮品制作
 aliases: Cocktail and Mocktail Recipes, 鸡尾酒配方, recipes
 date updated: 2022-01-09 17:58
----
-
-# 欢迎！
-
 nav:
-
-- docs:
-  - docs/index.md
+  - docs:
+    - docs/index.md
     - Cocktail Recipes: docs/Cocktail-Recipes.md
     - Types: docs/Types.md
     - Methods docs/Methods.md
     - Spirits: docs/Spirits.md
     - Glasses: docs/Glasses.md
     - Cocktail Reading: docs/Cocktail-Reading.md
+---
 
+# 欢迎！
 
 ## 金酒
 

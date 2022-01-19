@@ -3,7 +3,7 @@
 [[cocktails-easy-to-make]]
 [[Favourite]]
 [[IBA-Cocktail]]
-[[original-index]]
+[[index]]
 
 ## [[Cocktail Recipes]]
 
