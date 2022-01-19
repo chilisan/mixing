@@ -2,6 +2,7 @@
 title: Singapore Sling 新加坡司令
 date created: 2021-11-10
 status: draft, done
+categories: [[Cocktail Recipes]]
 tags:
   - 居家調酒雜記
   - CocktailRecipe

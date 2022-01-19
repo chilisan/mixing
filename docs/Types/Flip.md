@@ -1,12 +1,12 @@
 ---
-title: 類別不確定的雞尾酒
+title: Flip
 date created: 2022-01-06
 status: draft
+categories: [[Types]]
 tags:
+  - Flip
   - cocktail
 source: null
-aliases: 類別不確定的雞尾酒
+aliases: Flip
 date updated: 2022-01-09 17:58
 ---
-
-[[Cosmopolitan]]

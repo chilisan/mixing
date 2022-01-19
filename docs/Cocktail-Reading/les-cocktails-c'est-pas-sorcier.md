@@ -2,6 +2,7 @@
 title: 鸡尾酒原来是这么回事儿
 date created: 2022-01-08
 status: note/draft/post
+categories: [[Cocktail-Reading]]
 tags:
   - cocktail
   - cocktails reference

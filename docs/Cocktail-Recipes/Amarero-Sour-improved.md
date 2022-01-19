@@ -2,6 +2,7 @@
 title: Amaretto Sour Improved
 date created: 2021-11-10
 status: draft, done
+categories: [[Cocktail Recipes]]
 tags:
   - 居家調酒雜記
   - CocktailRecipe
@@ -49,3 +50,4 @@ date updated: 2022-01-09 17:57
 
 1. [Amaretto Sour (by Jeffrey Morgenthaler) Cocktail Recipe](https://www.diffordsguide.com/cocktails/recipe/3263/amaretto-sour-by-jeffrey-morgenthaler)
 2. [20 best Amaretto cocktails](https://www.diffordsguide.com/encyclopedia/1228/cocktails/20-best-amaretto-cocktails)
+

@@ -2,6 +2,7 @@
 title: Pisco Sour 皮斯科酸
 date created: 2021-12-30
 status: draft, done
+categories: [[Cocktail Recipes]]
 tags:
   - 居家調酒雜記
   - CocktailRecipe

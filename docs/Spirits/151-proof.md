@@ -2,6 +2,7 @@
 title: 151 濃度朗姆酒
 date created: 2022-01-07
 status: draft
+categories: [[Spirits]]
 tags:
   - 朗姆
   - Rum

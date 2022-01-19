@@ -2,6 +2,7 @@
 title: Zombie 殭屍
 date created: 2022-01-06
 status: draft, not-started
+categories: [[Cocktail Recipes]]
 tags:
   - 居家調酒雜記
   - CocktailRecipe

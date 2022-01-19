@@ -2,6 +2,7 @@
 title: Angostura Bitters
 date created: 2022-01-08
 status: draft
+categories: [[Spirits]]
 tags:
   - bitters
   - cocktail

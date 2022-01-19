@@ -2,6 +2,7 @@
 title: Sour 酸酒
 date created: 2022-01-06
 status: draft
+categories: [[Types]]
 tags:
   - Sour
   - cocktail

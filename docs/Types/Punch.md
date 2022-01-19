@@ -2,6 +2,7 @@
 title: Punch 賓治
 date created: 2022-01-06
 status: draft
+categories: [[Types]]
 tags:
   - Punch
   - 賓治酒

@@ -2,6 +2,7 @@
 title: Fizz 菲茲
 date created: 2022-01-08
 status: draft
+categories: [[Types]]
 tags:
   - Fizz
   - Cocktail

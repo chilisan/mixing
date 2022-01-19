@@ -2,6 +2,7 @@
 title: Collins 柯林斯
 date created: 2022-01-07
 status: draft
+categories: [[Types]]
 tags:
   - Collins
   - Cocktails

@@ -2,6 +2,7 @@
 title: Cosmopolitan 柯夢波丹
 date created: 2021-11-08
 status: post, done
+categories: [[Cocktail Recipes]]
 tags:
   - 居家調酒雜記
   - CocktailRecipe

@@ -2,6 +2,7 @@
 title: 蘋果熱托蒂
 date created: 2021-11-11
 status: draft, done
+categories: [[Cocktail Recipes]]
 tags:
   - 居家調酒雜記
   - CocktailRecipe

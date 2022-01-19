@@ -2,6 +2,7 @@
 title: Tiki 酒
 date created: 2022-01-07
 status: draft
+categories: [[Types]]
 tags:
   - Tiki
   - cocktail

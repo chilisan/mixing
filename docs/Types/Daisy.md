@@ -1,6 +1,8 @@
 ---
 title: Daisy 黛西
 date created: 2021-12-17
+status: draft
+categories: [[Types]]
 tags:
   - 居家調酒雜記
   - CocktailType

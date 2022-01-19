@@ -24,7 +24,7 @@ theme:
     - tabs 
     - navigation.tracking #自動更新URL?
     - navigation.top #回到最上
-    # - navigation.indexes #section page
+    - navigation.indexes #section page
     # - navigation.tabs #將頂級目錄放到頂欄
     # - navigation.tabs.sticky #下滑頁面時頂欄固定不隱藏
     - navigation.sections

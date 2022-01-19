@@ -11,6 +11,18 @@ date updated: 2022-01-09 17:58
 
 # 欢迎！
 
+nav:
+
+- docs:
+  - docs/index.md
+    - Cocktail Recipes: docs/Cocktail-Recipes.md
+    - Types: docs/Types.md
+    - Methods docs/Methods.md
+    - Spirits: docs/Spirits.md
+    - Glasses: docs/Glasses.md
+    - Cocktail Reading: docs/Cocktail-Reading.md
+
+
 ## 金酒
 
 ### 金汤力 Gin&Tonic ♥
