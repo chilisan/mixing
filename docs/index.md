@@ -11,10 +11,12 @@
 [[Apple-Hot-Toddy]]
 [[Casino]]
 [[Cosmopolitan]]
+[[Electric Lemonade]]
 [[Espresso-Martini]]
 [[Manhattan]]
 [[pisco-sour]]
 [[Singapore-Sling]]
+[[Vesper]]
 [[Zombie]]
 
 ## [Cocktail Reading](Cocktail-Reading/index.md)
@@ -23,12 +25,18 @@
 
 ## [Glasses](Glasses/index.md)
 
+[[Martini glass]]
+[[rocks glass]]
+
 ## [Methods](Methods/index.md)
+
+[[Build]]
 
 ## [Spirits](Spirits/index.md)
 
 [[151-proof]]
 [[Angostura Bitters]]
+[[Rum]]
 
 ## [Types](Types/index.md)
 

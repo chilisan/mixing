@@ -103,7 +103,7 @@ PS. Zomie 現在屬於當代經典了，像教父、教母這些反而被踢出�
 - Sex on the Beach 性感海灘
 - [[Singapore-Sling|Singapore Sling 新加坡司令]]
 - Tequila Sunrise 特基拉日出
-- Vesper
+- [[Vesper]]
 - [[Zombie|Zombie 殭屍]]
 
 ### New Era Drinks 新時代飲料

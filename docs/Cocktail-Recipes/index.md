@@ -1,3 +1,7 @@
+---
+title: Cocktail Recipes
+---
+
 # Cocktail Recipes Overview
 [[Amarero-Sour-improved]]
 
@@ -7,6 +11,8 @@
 
 [[Cosmopolitan]]
 
+[[Electric Lemonade]]
+
 [[Espresso-Martini]]
 
 [[Manhattan]]
@@ -14,5 +20,7 @@
 [[pisco-sour]]
 
 [[Singapore-Sling]]
+
+[[Vesper]]
 
 [[Zombie]]
