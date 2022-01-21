@@ -31,6 +31,8 @@
 ## [Methods](Methods/index.md)
 
 [[Build]]
+[[shake]] | [[dry shake]]
+[[Stir]]
 
 ## [Spirits](Spirits/index.md)
 
