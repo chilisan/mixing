@@ -4,3 +4,7 @@
 [[Angostura Bitters]]
 
 [[Rum]]
+
+[[Tequila]]
+
+[[Vodka]]

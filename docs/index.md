@@ -3,20 +3,27 @@
 [[cocktails-easy-to-make]]
 [[Favourite]]
 [[IBA-Cocktail]]
+[[Mixel]]
 [[pre-index]]
 
 ## [Cocktail Recipes](Cocktail-Recipes/index.md)
 
 [[Amarero-Sour-improved]]
 [[Apple-Hot-Toddy]]
+[[Bloody-Caesar]]
+[[Bloody-Maria]]
+[[Bloody-Mary]]
 [[Casino]]
 [[Cosmopolitan]]
+[[Cuba Libre]]
 [[Electric Lemonade]]
 [[Espresso-Martini]]
 [[Manhattan]]
 [[pisco-sour]]
+[[Red-Snapper]]
 [[Singapore-Sling]]
 [[Vesper]]
+[[Virgin-Mary]]
 [[Zombie]]
 
 ## [Cocktail Reading](Cocktail-Reading/index.md)
@@ -25,20 +32,25 @@
 
 ## [Glasses](Glasses/index.md)
 
+[[Collins glass]]
 [[Martini glass]]
 [[rocks glass]]
 
 ## [Methods](Methods/index.md)
 
 [[Build]]
+[[Rolling]]
 [[shake]] | [[dry shake]]
 [[Stir]]
+[[throwing mixing method]]
 
 ## [Spirits](Spirits/index.md)
 
 [[151-proof]]
 [[Angostura Bitters]]
 [[Rum]]
+[[Tequila]]
+[[Vodka]]
 
 ## [Types](Types/index.md)
 

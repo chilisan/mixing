@@ -76,12 +76,12 @@ PS. Zomie 現在屬於當代經典了，像教父、教母這些反而被踢出�
 
 - Bellini
 - Black Russian 黑色俄羅斯
-- Bloody Mary 血瑪麗
+- [[Bloody-Mary|Bloody Mary 血瑪麗]]
 - Caipirinha 卡琵莉亞
 - Champagne Cocktail
 - Corpse Reviver #2 亡者復甦二號
 - [[Cosmopolitan|Cosmopolitan 柯夢波丹]]
-- Cuba Libre 自由古巴
+- [[Cuba Libre]] 自由古巴
 - French 75
 - French Connection
 - Golden Dream

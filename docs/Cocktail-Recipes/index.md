@@ -7,9 +7,17 @@ title: Cocktail Recipes
 
 [[Apple-Hot-Toddy]]
 
+[[Bloody-Caesar]]
+
+[[Bloody-Maria]]
+
+[[Bloody-Mary]]
+
 [[Casino]]
 
 [[Cosmopolitan]]
+
+[[Cuba Libre]]
 
 [[Electric Lemonade]]
 
@@ -19,8 +27,12 @@ title: Cocktail Recipes
 
 [[pisco-sour]]
 
+[[Red-Snapper]]
+
 [[Singapore-Sling]]
 
 [[Vesper]]
+
+[[Virgin-Mary]]
 
 [[Zombie]]
