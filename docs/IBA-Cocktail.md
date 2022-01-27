@@ -132,7 +132,7 @@ PS. Zomie 現在屬於當代經典了，像教父、教母這些反而被踢出�
 - Spritz
 - Suffering Bastard
 - Tipperary
-- Tommy's Margarita
+- [[Tommy's-Margarita|Tommy's Margarita]]
 - (**New!**) Trinidad Sour
 - VE.N.TO
 - Yellow Bird

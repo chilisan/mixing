@@ -3,6 +3,8 @@ reference: [Cocktail glassware](https://www.diffordsguide.com/g/1150/how-to-make
 
 [[Collins glass]]
 
+[[Coupe glass]]
+
 [[Martini glass]]
 
 [[rocks glass]]

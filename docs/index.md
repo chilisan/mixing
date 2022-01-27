@@ -5,6 +5,7 @@
 [[IBA-Cocktail]]
 [[Mixel]]
 [[pre-index]]
+[[Blue-Agave-Sweetener]]
 
 ## [Cocktail Recipes](Cocktail-Recipes/index.md)
 
@@ -19,9 +20,11 @@
 [[Electric Lemonade]]
 [[Espresso-Martini]]
 [[Manhattan]]
+[[Perfect-Lady]]
 [[pisco-sour]]
 [[Red-Snapper]]
 [[Singapore-Sling]]
+[[Tommy's-Margarita]]
 [[Vesper]]
 [[Virgin-Mary]]
 [[Zombie]]
@@ -33,6 +36,7 @@
 ## [Glasses](Glasses/index.md)
 
 [[Collins glass]]
+[[Coupe glass]]
 [[Martini glass]]
 [[rocks glass]]
 

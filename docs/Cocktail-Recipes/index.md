@@ -25,11 +25,15 @@ title: Cocktail Recipes
 
 [[Manhattan]]
 
+[[Perfect-Lady]]
+
 [[pisco-sour]]
 
 [[Red-Snapper]]
 
 [[Singapore-Sling]]
+
+[[Tommy's-Margarita]]
 
 [[Vesper]]
 
