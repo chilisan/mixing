@@ -19,7 +19,7 @@ date updated: 2022-01-09 17:58
 - Type: [[]]
 - Main Spirit: [[Gin]]
 - Method: [[Shake]]
-- Glasses: [[Hurricane glass]]
+- Glasses: [[Hurricane glass]] | [[Sling]]
 - Main Recipe Source: [[IBA-Cocktail|IBA Cocktail]]
 
 ![[IBA21_Singapore_Sling.png]]

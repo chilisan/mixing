@@ -11,21 +11,29 @@
 
 [[Amarero-Sour-improved]]
 [[Apple-Hot-Toddy]]
+[[Bellini]]
 [[Bloody-Caesar]]
 [[Bloody-Maria]]
 [[Bloody-Mary]]
+[[Boston-Sour]]
 [[Casino]]
 [[Cosmopolitan]]
 [[Cuba Libre]]
 [[Electric Lemonade]]
 [[Espresso-Martini]]
 [[Manhattan]]
+[[New-York-Sour]]
 [[Perfect-Lady]]
 [[pisco-sour]]
+[[Red-Sangria]]
 [[Red-Snapper]]
+[[Rossini]]
+[[Russian-Spring-Punch]]
 [[Singapore-Sling]]
 [[Tommy's-Margarita]]
+[[Whiskey-Sour]]
 [[Vesper]]
+[[Virgin-Colada]]
 [[Virgin-Mary]]
 [[Zombie]]
 
@@ -37,8 +45,11 @@
 
 [[Collins glass]]
 [[Coupe glass]]
+[[Flute]]
 [[Martini glass]]
+[[Old-fashioned glass]]
 [[rocks glass]]
+[[Sling]]
 
 ## [Methods](Methods/index.md)
 
@@ -54,6 +65,7 @@
 [[Angostura Bitters]]
 [[Rum]]
 [[Tequila]]
+[[Whiskey]]
 [[Vodka]]
 
 ## [Types](Types/index.md)

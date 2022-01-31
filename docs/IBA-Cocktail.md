@@ -67,14 +67,14 @@ PS. Zomie 現在屬於當代經典了，像教父、教母這些反而被踢出�
 - Stinger
 - Tuxedo
 - Vieux Carrè
-- Whiskey Sour 威士忌酸
+- [[Whiskey-Sour]] 威士忌酸
 - White Lady
 
 ### Contemporary Classics 當代經典
 
 > [The Contemporary Classics some of which, completely forgotten, have been replaced by those that remain popular all over the world as a symbol of class and prestige drinking.](https://iba-world.com/category/iba-cocktails/contemporary-classics/)
 
-- Bellini
+- [[Bellini]]
 - Black Russian 黑色俄羅斯
 - [[Bloody-Mary|Bloody Mary 血瑪麗]]
 - Caipirinha 卡琵莉亞
@@ -121,12 +121,12 @@ PS. Zomie 現在屬於當代經典了，像教父、教母這些反而被踢出�
 - Illegal
 - Lemon Drop Martini
 - Naked and Famous
-- New York Sour 紐約酸
+- [[New-York-Sour]] 紐約酸
 - Old Cuban
 - Paloma
 - Paper Plane 紙飛機
 - Penicillin 盤尼西林
-- Russian Spring Punch 俄羅斯春天賓治
+- [[Russian Spring Punch]] 俄羅斯春天賓治
 - Southside
 - Spicy Fifty
 - Spritz

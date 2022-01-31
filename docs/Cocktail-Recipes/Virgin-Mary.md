@@ -14,7 +14,7 @@ aliases: Virgin-Mary
 ## Metadata
 
 - IBA Cocktail: [[x]]
-- Type: [[]]
+- Type: [[Mocktail]]
 - Main Spirit: [[x]]
 - Method: [[Rolling]]or [[Stir]]
 - Glasses: [[Collins glass]]

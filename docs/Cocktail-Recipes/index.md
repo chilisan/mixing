@@ -7,11 +7,15 @@ title: Cocktail Recipes
 
 [[Apple-Hot-Toddy]]
 
+[[Bellini]]
+
 [[Bloody-Caesar]]
 
 [[Bloody-Maria]]
 
 [[Bloody-Mary]]
+
+[[Boston-Sour]]
 
 [[Casino]]
 
@@ -25,17 +29,29 @@ title: Cocktail Recipes
 
 [[Manhattan]]
 
+[[New-York-Sour]]
+
 [[Perfect-Lady]]
 
 [[pisco-sour]]
 
+[[Red-Sangria]]
+
 [[Red-Snapper]]
+
+[[Rossini]]
+
+[[Russian-Spring-Punch]]
 
 [[Singapore-Sling]]
 
 [[Tommy's-Margarita]]
 
+[[Whiskey-Sour]]
+
 [[Vesper]]
+
+[[Virgin-Colada]]
 
 [[Virgin-Mary]]
 

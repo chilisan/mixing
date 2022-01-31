@@ -7,4 +7,6 @@
 
 [[Tequila]]
 
+[[Whiskey]]
+
 [[Vodka]]
