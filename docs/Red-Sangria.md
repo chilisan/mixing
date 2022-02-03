@@ -17,7 +17,7 @@ aliases: Red-Sangria
 - Main Spirit: [[Wine]]
 - Method: [[Build]]
 - Glasses: [[]]
-- Main Recipe Source: [[The-Art-of-The-Cocktail]]
+- Main Recipe Source: [[07-03-The-Art-of-The-Cocktail]]
 
 ## Ingredients & Proportion
 
@@ -40,7 +40,7 @@ aliases: Red-Sangria
 
 ## Notes
 
-- 參考《[[The-Art-of-The-Cocktail|鸡尾酒赏味之旅]]》做了 Red Sangria，書裡翻譯為「圣基亚」，好像就是很火的熱紅酒的冷飲版？（記得原來看到過沒喝完的熱紅酒放涼似乎可以直接做成這個酒，似乎翻譯成了「桑格利亚」？）  
+- 參考《[[07-03-The-Art-of-The-Cocktail|鸡尾酒赏味之旅]]》做了 Red Sangria，書裡翻譯為「圣基亚」，好像就是很火的熱紅酒的冷飲版？（記得原來看到過沒喝完的熱紅酒放涼似乎可以直接做成這個酒，似乎翻譯成了「桑格利亚」？）  
   
 - > 这款来自西班牙的鸡尾酒第一次出现在 1994 年纽约的世贸展会上，并开始被大为推广，它其实是最早形式的红酒宾治。  
   
@@ -52,4 +52,4 @@ aliases: Red-Sangria
 
 ## References
 
-1. [[The-Art-of-The-Cocktail]]
+1. [[07-03-The-Art-of-The-Cocktail]]

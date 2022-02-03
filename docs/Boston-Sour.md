@@ -17,7 +17,7 @@ aliases: Boston-Sour
 - Main Spirit: [[Whiskey]]
 - Method: [[Shake]]
 - Glasses: [[Coupe glass]] | [[Old-fashioned glass]] | [[rocks glass]]
-- Main Recipe Source: [[Mixel]]
+- Main Recipe Source: [[08-04-Mixel]]
 
 ## Ingredients & Proportion
 
@@ -41,5 +41,5 @@ aliases: Boston-Sour
 
 ## References
 
-1. [[Mixel]]
+1. [[08-04-Mixel]]
 2. Liquid Intelligence

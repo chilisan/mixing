@@ -15,12 +15,12 @@ date updated: 2022-01-09 17:57
 
 ## Metadata
 
-- IBA Cocktail: [[iba-cocktail#The Unforgettables 難忘|The Unforgettable]]
+- IBA Cocktail: [[02-IBA-Cocktail#The Unforgettables 難忘|The Unforgettable]]
 - Type: [[]]
 - Main Spirit: [[Gin]]
 - Method: [[Shake]]
 - Glasses: [[rocks glass]]
-- Main Recipe Source: [[IBA-Cocktail|IBA Cocktail]]
+- Main Recipe Source: [[02-IBA-Cocktail|IBA Cocktail]]
 
 ![[IBA21_Casino.png]]
 

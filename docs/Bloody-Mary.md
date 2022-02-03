@@ -12,12 +12,12 @@ aliases: Bloody-Mary
 
 ## Metadata
 
-- IBA Cocktail: [[IBA-Cocktail#Contemporary Classics 當代經典]]
+- IBA Cocktail: [[02-IBA-Cocktail#Contemporary Classics 當代經典]]
 - Type: [[]]
 - Main Spirit: [[Vodka]]
 - Method: [[Rolling]] or [[Stir]]
 - Glasses: [[Collins glass]]
-- Main Recipe Source: [[Le Grand Cours de Cocktails]]
+- Main Recipe Source: [[07-01-Le Grand Cours de Cocktails]]
 
 ![[IBA21_Bloody_Marry.png]]
 

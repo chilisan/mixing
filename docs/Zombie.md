@@ -17,12 +17,12 @@ date updated: 2022-01-09 17:58
 
 ## Metadata
 
-- IBA Cocktail: [[IBA-Cocktail#New Era Drinks 新時代飲料|New Era Drinks]]
+- IBA Cocktail: [[02-IBA-Cocktail#New Era Drinks 新時代飲料|New Era Drinks]]
 - Type: [[Tiki]]
 - Main Spirit: [[Rum]]
 - Method: [[Blend?]]
 - Glasses: [[tall tumbler glass]]
-- Main Recipe Source: [[IBA-Cocktail|IBA Cocktail]]
+- Main Recipe Source: [[02-IBA-Cocktail|IBA Cocktail]]
 
 ![[IBA21_Zombie.png]]
 

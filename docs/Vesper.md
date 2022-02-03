@@ -12,12 +12,12 @@ aliases:
 
 ## Metadata
 
-- IBA Cocktail: [[IBA-Cocktail#Contemporary Classics 當代經典]]
+- IBA Cocktail: [[02-IBA-Cocktail#Contemporary Classics 當代經典]]
 - Type: [[Martini]]
 - Main Spirit: [[Gin]]
 - Method: [[Stir]]
 - Glasses: [[Martini glass]]
-- Main Recipe Source: [[IBA-Cocktail|IBA Cocktail]]
+- Main Recipe Source: [[02-IBA-Cocktail|IBA Cocktail]]
 
 ![[IBA21_Vesper.png]]
 

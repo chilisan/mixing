@@ -20,7 +20,7 @@ date updated: 2022-01-09 17:58
 - Main Spirit: [[Pisco]]
 - Method: [[Shake]] | [[dry shake]]
 - Glasses: [[goblet glass]]
-- Recipe Source: [[IBA-Cocktail|IBA Cocktail]]
+- Recipe Source: [[02-IBA-Cocktail|IBA Cocktail]]
 
 ![[IBA21_Pisco_Sour.png]]
 

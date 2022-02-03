@@ -12,12 +12,12 @@ aliases: Cuba Libre
 
 ## Metadata
 
-- IBA Cocktail: [[IBA-Cocktail#Contemporary Classics 當代經典]]
+- IBA Cocktail: [[02-IBA-Cocktail#Contemporary Classics 當代經典]]
 - Type: [[]]
 - Main Spirit: [[]]
 - Method: [[Build]]
 - Glasses: [[Collins glass]]
-- Main Recipe Source: [[IBA-Cocktail]]
+- Main Recipe Source: [[02-IBA-Cocktail]]
 
 ## Ingredients & Proportion
 

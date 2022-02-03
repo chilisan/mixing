@@ -17,7 +17,7 @@ aliases: Bloody-Caesar
 - Main Spirit: [[Vodka]]
 - Method: [[Rolling]] or [[Stir]]
 - Glasses: [[Collins glass]]
-- Main Recipe Source: [[Mixel]]
+- Main Recipe Source: [[08-04-Mixel]]
 
 ## Ingredients & Proportion
 

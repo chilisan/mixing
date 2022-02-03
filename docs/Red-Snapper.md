@@ -17,7 +17,7 @@ aliases: Red-Snapper
 - Main Spirit: [[Gin]]
 - Method: [[Rolling]] or [[Stir]]
 - Glasses: [[Collins glass]]
-- Main Recipe Source: [[Le Grand Cours de Cocktails]]
+- Main Recipe Source: [[07-01-Le Grand Cours de Cocktails]]
 
 ## Ingredients & Proportion
 
@@ -44,4 +44,4 @@ aliases: Red-Snapper
 
 ## References
 
-1. [[Le Grand Cours de Cocktails]]
+1. [[07-01-Le Grand Cours de Cocktails]]

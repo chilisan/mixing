@@ -12,12 +12,12 @@ aliases: Russian-Spring-Punch
 
 ## Metadata
 
-- IBA Cocktail: [[IBA-Cocktail#New Era Drinks 新時代飲料]]
+- IBA Cocktail: [[02-IBA-Cocktail#New Era Drinks 新時代飲料]]
 - Type: [[Fizz]]
 - Main Spirit: [[Vodka]]
 - Method: [[Stir]] | [[Shake]]
 - Glasses: [[Sling]] | [[tumbler glass]]
-- Main Recipe Source: [[Le Grand Cours de Cocktails]] | [[IBA-Cocktail]]
+- Main Recipe Source: [[07-01-Le Grand Cours de Cocktails]] | [[02-IBA-Cocktail]]
 
 ![[IBA21_Russian_Spring_Punch.png]]
 
@@ -52,11 +52,11 @@ IBA：
 - 最開始我沒有黑加侖利口酒，於是用了之前碰巧得到的一瓶深色利口酒，最後成品不像書中（世界經典雞尾酒大全）那樣鮮豔，或許可以將部分單糖糖漿換為石榴糖漿……
 - 今天剛學到用碎冰的雞尾酒要插入兩個吸管（可能是一個吸管如果被碎冰卡住可以用另一個吸管喝？）
 - 檸檬用了之前本地有售賣的香水檸檬，香氣很獨特，無籽好榨汁，本地現在已經沒有貨了，但可以從網上買，似乎產自海南。  
-- 應該是我參考 《[[Le Grand Cours de Cocktails|世界经典鸡尾酒大全]]》做得第一杯雞尾酒
+- 應該是我參考 《[[07-01-Le Grand Cours de Cocktails|世界经典鸡尾酒大全]]》做得第一杯雞尾酒
 - 之後用黑加侖利口酒和之前沒用完的起泡酒又做了一杯（上次用的從家裡翻出來的小瓶起泡酒，沒有塞子，也一點氣泡都沒有），還是一如既往的好喝！  
 - 注意到IBA配方降低了糖漿和烈酒比例，提高了起泡葡萄酒、利口酒、檸檬汁比例，感覺不如書上的配比好喝好記憶，但回頭還是想試試看~
 
 ## References
 
-1. [[Le Grand Cours de Cocktails]]
+1. [[07-01-Le Grand Cours de Cocktails]]
 2. [Russian Spring Punch - iba-world.com](https://iba-world.com/russian-spring-punch/)

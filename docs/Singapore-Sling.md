@@ -15,12 +15,12 @@ date updated: 2022-01-09 17:58
 
 ## Metadata
 
-- IBA Cocktail: [[iba-cocktail#Contemporary Classics 當代經典|Contemporary Classics]]
+- IBA Cocktail: [[02-IBA-Cocktail#Contemporary Classics 當代經典|Contemporary Classics]]
 - Type: [[]]
 - Main Spirit: [[Gin]]
 - Method: [[Shake]]
 - Glasses: [[Hurricane glass]] | [[Sling]]
-- Main Recipe Source: [[IBA-Cocktail|IBA Cocktail]]
+- Main Recipe Source: [[02-IBA-Cocktail|IBA Cocktail]]
 
 ![[IBA21_Singapore_Sling.png]]
 

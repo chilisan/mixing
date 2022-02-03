@@ -17,7 +17,7 @@ aliases: Rossini
 - Main Spirit: [[Wine]]
 - Method: [[Build]]
 - Glasses: [[Flute]]
-- Main Recipe Source: [[Le Grand Cours de Cocktails]]
+- Main Recipe Source: [[07-01-Le Grand Cours de Cocktails]]
 
 ## Ingredients & Proportion
 
@@ -41,5 +41,5 @@ none
 
 ## References
 
-1. [[Le Grand Cours de Cocktails]]
+1. [[07-01-Le Grand Cours de Cocktails]]
 2. [Rossini Cocktail Recipe](https://www.diffordsguide.com/cocktails/recipe/1697/rossini)

@@ -12,12 +12,12 @@ aliases: Tommy's Margarita
 
 ## Metadata
 
-- IBA Cocktail: [[IBA-Cocktail#New Era Drinks 新時代飲料]]
+- IBA Cocktail: [[02-IBA-Cocktail#New Era Drinks 新時代飲料]]
 - Type: [[]]
 - Main Spirit: [[]]
 - Method: [[]]
 - Glasses: [[]]
-- Main Recipe Source: [[IBA-Cocktail]] | [[Le Grand Cours de Cocktails]]
+- Main Recipe Source: [[02-IBA-Cocktail]] | [[07-01-Le Grand Cours de Cocktails]]
 
 ![[IBA21_Tommy_Margarita.png]]
 
@@ -48,4 +48,4 @@ Pour all ingredients into a cocktail shaker, shake well with ice, strain into a 
 ## References
 
 1. [Tommy's Margarita - iba-world.com](https://iba-world.com/tommys-margarita/)
-2. [[Le Grand Cours de Cocktails]]
+2. [[07-01-Le Grand Cours de Cocktails]]

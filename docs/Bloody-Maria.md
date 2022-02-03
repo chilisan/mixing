@@ -17,7 +17,7 @@ aliases: Bloody-Maria
 - Main Spirit: [[Tequila]]
 - Method: [[Rolling]]or [[Stir]]
 - Glasses: [[Collins glass]]
-- Main Recipe Source: [[Mixel]] | [The Spruce Eats - Make Your Best Meal](https://www.thespruceeats.com/)
+- Main Recipe Source: [[08-04-Mixel]] | [The Spruce Eats - Make Your Best Meal](https://www.thespruceeats.com/)
 
 ## Ingredients & Proportion
 
@@ -45,5 +45,5 @@ aliases: Bloody-Maria
 
 ## References
 
-1. [[Mixel]]
+1. [[08-04-Mixel]]
 2. [The Spruce Eats - Make Your Best Meal](https://www.thespruceeats.com/)

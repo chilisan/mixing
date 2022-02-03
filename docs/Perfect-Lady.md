@@ -17,7 +17,7 @@ aliases: Perfect Lady
 - Main Spirit: [[Gin]]
 - Method: [[Shake]]
 - Glasses: [[Coupe glass]]
-- Main Recipe Source: [[Le Grand Cours de Cocktails]]
+- Main Recipe Source: [[07-01-Le Grand Cours de Cocktails]]
 
 ![[perfect-lady.jpg]]
 
@@ -45,5 +45,5 @@ SHAKE all ingredients with ice and strain back into shaker, DRY SHAKE (without i
 
 ## References
 
-1. [[Le Grand Cours de Cocktails]]
+1. [[07-01-Le Grand Cours de Cocktails]]
 2. [Perfect Lady Cocktail Recipe](https://www.diffordsguide.com/cocktails/recipe/2541/perfect-lady)

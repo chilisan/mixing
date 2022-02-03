@@ -15,12 +15,12 @@ date updated: 2022-01-09 17:58
 
 ## Metadata
 
-- IBA Cocktail: [[IBA-Cocktail#The Unforgettables 難忘|The Unforgettable]]
+- IBA Cocktail: [[02-IBA-Cocktail#The Unforgettables 難忘|The Unforgettable]]
 - Type: [[]]
 - Main Spirit: [[Whiskey]]
 - Method: [[Stir]]
 - Glasses: [[cocktail glass]]
-- Main Recipe Source: [[IBA-Cocktail|IBA Cocktail]]
+- Main Recipe Source: [[02-IBA-Cocktail|IBA Cocktail]]
 
 ![[IBA21_Manhattan.png]]
 

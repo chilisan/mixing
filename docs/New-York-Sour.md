@@ -12,12 +12,12 @@ aliases: New York Sour
 
 ## Metadata
 
-- IBA Cocktail: [[IBA-Cocktail#New Era Drinks 新時代飲料]]
+- IBA Cocktail: [[02-IBA-Cocktail#New Era Drinks 新時代飲料]]
 - Type: [[Sour]]
 - Main Spirit: [[Whiskey]]
 - Method: [[Shake]]
 - Glasses: [[]]
-- Main Recipe Source: [[IBA-Cocktail]] | [[The-Art-of-The-Cocktail]]
+- Main Recipe Source: [[02-IBA-Cocktail]] | [[07-03-The-Art-of-The-Cocktail]]
 
 ![[IBA21_NewYorkSour.png]]
 
@@ -55,4 +55,4 @@ aliases: New York Sour
 ## References
 
 1. [New York Sour - iba-world.com](https://iba-world.com/new-york-sour/)
-2. [[The-Art-of-The-Cocktail]]
+2. [[07-03-The-Art-of-The-Cocktail]]

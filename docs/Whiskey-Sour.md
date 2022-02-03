@@ -12,12 +12,12 @@ aliases: Whiskey-Sour
 
 ## Metadata
 
-- IBA Cocktail: [[IBA-Cocktail#The Unforgettables 難忘]]
+- IBA Cocktail: [[02-IBA-Cocktail#The Unforgettables 難忘]]
 - Type: [[Sour]]
 - Main Spirit: [[Whiskey]]
 - Method: [[Shake]]
 - Glasses: [[Old-fashioned glass ]]
-- Main Recipe Source: [[IBA-Cocktail]]
+- Main Recipe Source: [[02-IBA-Cocktail]]
 
 ![[IBA21_Whiskey_Sour.png]]
 

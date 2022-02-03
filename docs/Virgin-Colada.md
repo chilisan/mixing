@@ -17,7 +17,7 @@ aliases: Virgin Colada
 - Main Spirit: [[x]]
 - Method: [[Shake]]
 - Glasses: [[]]
-- Main Recipe Source: [[Le Grand Cours de Cocktails]]
+- Main Recipe Source: [[07-01-Le Grand Cours de Cocktails]]
 
 ## Ingredients & Proportion
 
@@ -42,4 +42,4 @@ aliases: Virgin Colada
 
 ## References
 
-1. [[Le Grand Cours de Cocktails]]
+1. [[07-01-Le Grand Cours de Cocktails]]

@@ -1,13 +1,13 @@
 # MOC TEST
 
-[[cocktails-easy-to-make]]
-[[Favourite]]
-[[IBA-Cocktail]]
-[[Mixel]]
-[[pre-index]]
+[[08-01-cocktails-easy-to-make]]
+[[08-02-Favourite]]
+[[02-IBA-Cocktail]]
+[[08-04-Mixel]]
+[[08-03-pre-index]]
 [[Blue-Agave-Sweetener]]
 
-## [Cocktail Recipes](Cocktail-Recipes/index.md)
+## [[01-Cocktail-Recipes]]
 
 [[Amarero-Sour-improved]]
 [[Apple-Hot-Toddy]]
@@ -37,11 +37,13 @@
 [[Virgin-Mary]]
 [[Zombie]]
 
-## [Cocktail Reading](Cocktail-Reading/index.md)
+## [[07-00-Cocktail-Reading]]
 
-[[les-cocktails-c'est-pas-sorcier]]
+[[07-02-les-cocktails-c'est-pas-sorcier]]
+[[07-01-Le Grand Cours de Cocktails]]
+[[07-03-The-Art-of-The-Cocktail]]
 
-## [Glasses](Glasses/index.md)
+## [[06-Glasses]]
 
 [[Collins glass]]
 [[Coupe glass]]
@@ -51,7 +53,7 @@
 [[rocks glass]]
 [[Sling]]
 
-## [Methods](Methods/index.md)
+## [[05-Methods]]
 
 [[Build]]
 [[Rolling]]
@@ -59,7 +61,7 @@
 [[Stir]]
 [[throwing mixing method]]
 
-## [Spirits](Spirits/index.md)
+## [[04-Spirits]]
 
 [[151-proof]]
 [[Angostura Bitters]]
@@ -68,7 +70,7 @@
 [[Whiskey]]
 [[Vodka]]
 
-## [Types](Types/index.md)
+## [[03-Types]]
 
 [[Collins]]
 [[Daisy]]

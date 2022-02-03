@@ -12,7 +12,7 @@ aliases: Bellini
 
 ## Metadata
 
-- IBA Cocktail: [[IBA-Cocktail#Contemporary Classics 當代經典]]
+- IBA Cocktail: [[02-IBA-Cocktail#Contemporary Classics 當代經典]]
 - Type: [[]]
 - Main Spirit: [[Wine]]
 - Method: [[Build]]
@@ -38,9 +38,9 @@ aliases: Bellini
  - PUCCINI – Fresh Mandarin Orange Juice;  
  - [[ROSSINI]] – Fresh Strawberry Puree;  
  - TINTORETTO – Fresh Pomegranate Juice.
-- [[Le Grand Cours de Cocktails]] 與 [[IBA-Cocktail]] 中配比不一，後者果泥與酒配比 1:2 ，前者爲 3:7 ,可以兩種都試試比較看。
+- [[07-01-Le Grand Cours de Cocktails]] 與 [[02-IBA-Cocktail]] 中配比不一，後者果泥與酒配比 1:2 ，前者爲 3:7 ,可以兩種都試試比較看。
 
 ## References
 
 1. [Bellini - iba-world.com](https://iba-world.com/bellini/)
-2. [[Le Grand Cours de Cocktails]]
+2. [[07-01-Le Grand Cours de Cocktails]]
